@@ -4,8 +4,8 @@ Hi 👋 My name is Eric Koehli
 Web Developer
 -------------
 
-*   🌍  I'm based in Toronto
-*   🖥️  See my portfolio at [ericpko.github.io](http://ericpko.github.io)
+*   🌍  I'm based in Buffalo, NY
+*   🖥️  See my portfolio at [ericpko.dev](https://ericpko.dev)
 *   ✉️  You can contact me at [erickoehli@gmail.com](mailto:erickoehli@gmail.com)
 *   🧠  I'm learning SvelteKit + Rust
 
